@@ -1,0 +1,9 @@
+.ag-theme-alpine {
+    --ag-font-family: 'Pretendard-Regular';
+    --ag-grid-size: 6px;
+    --ag-list-item-height: 30px;
+}
+
+.ag-header-cell-resize {
+    z-index: 0;
+}
